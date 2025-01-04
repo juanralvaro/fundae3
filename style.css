@@ -1,0 +1,42 @@
+a:hover {
+	color: green;
+}
+
+input:focus {
+	color: red;
+}
+
+h1 {
+	color: blue;
+	font-family: Arial;
+	font-size: 20px;
+	box-sizing: border-box;
+	position: relative;
+}
+
+h2 {
+	color: #EE1122;
+	font-family: "Verdana", Arial, sans-serif;
+	font-size: 15px;
+	position: relative;
+	top: -25px;
+	left: 25px;
+}
+
+h3,
+h4,
+h5,
+h6 {
+	color: black;
+	font-family: "Times New Roman", Arial, sans-serif;
+}
+
+p {
+	width: 100px;
+	height: 100px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	border: 2px;
+}
